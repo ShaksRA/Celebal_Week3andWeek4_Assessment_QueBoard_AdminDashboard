@@ -1,1 +1,1 @@
-# QueBoard-Admin-Dashboard
+# QueBoard-AdminDashboard
